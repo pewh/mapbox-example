@@ -11,6 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
+import Mapbox from 'react-native-mapbox-gl'
 
 export default class GoKuliner extends Component {
   render() {
